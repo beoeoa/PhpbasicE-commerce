@@ -1,7 +1,8 @@
 ﻿			<?php 
 					$title="Php basic E-commerce ";
 					include('include/head.php'); 
-					 
+					error_reporting(E_ALL);
+					ini_set('display_errors', 1);
 			?>
 
     		<div class="divleft"></div>
