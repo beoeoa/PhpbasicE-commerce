@@ -6,7 +6,8 @@
 			?>
 
     		<div class="divleft"></div>
-    		<div class="content"> <?php include('include/content/home.php'); ?> </div>
+    		<div class="content">Hello world - test home content</div>
+
     		<div class="divright">
     			<?php include('include/divright/user.php');  ?>
     		</div> 
